@@ -1,2 +1,2 @@
-# Python-Cousera-methods-classes-jupyter-lab
+# Python-Coursera-methods-classes-jupyter-lab
 Elevator system
